@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sách chính trị"
+    },
+    {
+      "id": 2,
+      "name": "Sách khóa học công nghệ"
+    },
+    {
+      "id": 3,
+      "name": "Sách giáo trình"
+    }
+  ],
+  "books": [
+    {
+      "name": "Tôi Yêu Em",
+      "price": 1000,
+      "category_id": 1,
+      "id": 1
+    },
+    {
+      "name": "Chính Trị",
+      "price": 1000,
+      "category_id": 2,
+      "id": 2
+    },
+    {
+      "name": "Sách Báo",
+      "price": 123123,
+      "category_id": 3,
+      "id": 3
+    }
+  ]
+}
