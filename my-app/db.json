@@ -21,16 +21,16 @@
       "id": 1
     },
     {
-      "name": "Chính Trị",
-      "price": 1000,
-      "category_id": 2,
-      "id": 2
-    },
-    {
       "name": "Sách Báo",
       "price": 123123,
       "category_id": 3,
       "id": 3
+    },
+    {
+      "name": "Chính Trị",
+      "price": 311311,
+      "category_id": 2,
+      "id": 4
     }
   ]
 }

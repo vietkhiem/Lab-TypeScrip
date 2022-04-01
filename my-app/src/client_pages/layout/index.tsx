@@ -18,7 +18,6 @@ function ClientLayout() {
       <main>
         <Outlet />
       </main>
-      <footer>FOOTER</footer>
     </div>
   );
 }
